@@ -56,7 +56,7 @@ import collections
 #        """
 
 
-# pre-unpack solution
+
 
 class NestedIterator:
     def __init__(self, nestedList: list[NestedInteger]):
