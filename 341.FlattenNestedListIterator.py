@@ -102,8 +102,3 @@ class NestedIterator:
 
     def hasNext(self) -> bool:
         return self.next_value is not None
-
-
-# Your NestedIterator object will be instantiated and called as such:
-# i, v = NestedIterator(nestedList), []
-# while i.hasNext(): v.append(i.next())
